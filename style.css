@@ -1,0 +1,17 @@
+#score{
+
+    float: left;
+    font-size:40px;
+    margin: 50px;
+}
+#timer{
+
+    float: right;
+    font-size:40px;
+    margin: 50px;
+}
+
+canvas{
+    border-radius: 20px;
+    border: 5px dotted rgb(90, 64, 64);
+}
